@@ -8,7 +8,7 @@ Text.
 a
 
  feature a
- ---------
+ --------- 
 
 - todo1
 - todo 2
